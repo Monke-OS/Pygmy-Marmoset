@@ -1,4 +1,4 @@
-/* This code was copied from ToaruosOS Under the NCSA License */
+/* This code was copied from ToaruOS Under the NCSA License */
 #pragma once
 
 #define MULTIBOOT_MAGIC        0x1BADB002
