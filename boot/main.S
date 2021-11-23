@@ -1,5 +1,5 @@
-/* Some of this code was copied from the ToaruosOS */
-/* At the time of creation ToaruosOS used NCSA License */
+/* Some of this code was copied from the ToaruOS */
+/* At the time of creation ToaruOS used NCSA License */
 
 
 
